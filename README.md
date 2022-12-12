@@ -1,0 +1,3 @@
+# BMGT438A: APPLIED QUANTITATIVE ANALYSIS
+
+## Welcome Data Scientist
